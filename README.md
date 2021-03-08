@@ -2,25 +2,13 @@
 
 Yes. That's me. 
 
-I am a full-stack developer — Software Development Engineer by profession. 🐱‍💻
+I am a Software Engineer by profession.&nbsp;:technologist:
 
-I make mobile 📱 apps and websites 🖥️ - and have been doing so for almost 3 years now. 💻
+I build things. Started off with web development in 2015 as a hobby, did some freelancing, then moved on to building full stack web and mobile applications professionally in 2018 and now I'm working on [Chef](https://www.chef.io/) with some amazing folks at [Progress](https://www.progress.com/).
 
-Currently, I'm focusing on system design principles and architectural patterns - and preparing for AWS certification. ⚒️
+Apart from tech stuff, I indulge myself in sketching and making doodles, cooking, clicking pictures, reading books and listening to music and podcasts.
 
-And also UI/UX! ✨ By learning design theory. You can connect with me on [twitter](https://twitter.com/rishiikc) and become a part of my journey!
+You can find me on a bunch of places on the internet:
 
-I'm also interested in gaming, art, travel, food, and music! So @ me whenever you find something good! 💥 
-
-Don't praise windows in front of me. 😏 I'm a nix person. 😌 (Use MacOS every day, but still prefer Linux - XFCE or Gnome)
-
-I'm a boring person who will not skip over any step while on his learning journey and follow a [roadmap](https://roadmap.sh). I'm currently on this [part](https://roadmap.sh/backend) (Scroll down 🖱️ to Design and development principles - yes that's where I am now!). 
-
-I have learned a lot from the dev community out here on the internet and would love to help anyone who needs it! So don't think and ping me and I'll reply ASAP! ☺️
-
-I have just started being active on the internet too! You can find me on :
-
-[Twitter](https://twitter.com/rishiikc) | [Dev.to](https://dev.to/rishikc) | [Stackoverflow](https://stackoverflow.com/users/11104618/rishichawda) | [LinkedIn](https://www.linkedin.com/in/rkrishi) | [Dribble](https://dribbble.com/rishikc)
-
-You won't see much there, but I have started documenting things as they happen now so let's connect!~
+[![Twitter](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&logo=twitter&logoColor=FFF)](https://twitter.com/rishiikc) [![Dev.to](https://img.shields.io/badge/-DevCommunity-000000?style=flat-square&logo=dev.to&logoColor=FFF)](https://dev.to/rishikc) [![Stackoverflow](https://img.shields.io/badge/-StackOverflow-f48024?style=flat-square&logo=stackoverflow&logoColor=FFF)](https://stackoverflow.com/users/11104618/rishichawda) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=FFF)](https://www.linkedin.com/in/rkrishi) [![Dribbble](https://img.shields.io/badge/-Dribbble-ea4c89?style=flat-square&logo=dribbble&logoColor=FFF)](https://dribbble.com/rishikc)
 
