@@ -2,8 +2,6 @@
 
 Yes. That's me. 
 
-<h4>:hammer_and_pick:&nbsp;&nbsp;Tech Stack:<h4>
-
 I am a Software Engineer by profession.&nbsp;:technologist:&nbsp;
 
 But don't mistake me for a nerd, geek, or panda. :panda_face:
