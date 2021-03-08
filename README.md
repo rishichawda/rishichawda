@@ -1,6 +1,8 @@
-<h1>👈</h1>
+<h1>:point_left:</h1>
 
 Yes. That's me. 
+
+<h4>:point_down:&nbsp;&nbsp;About Me:</h4>
 
 I am a Software Engineer by profession.&nbsp;:technologist:&nbsp;
 
